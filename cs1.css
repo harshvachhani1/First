@@ -15,6 +15,7 @@ a{
 }
 img{
     opacity: 0.8;
+    cursor: pointer;
 }
 .firstp{
     background-color: bisque;
