@@ -1,0 +1,33 @@
+*{
+    /* background-image:url('nature.jpg'); */
+    background-color: turquoise;
+}
+h2{
+    color : red;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+/* h1{
+    background-color: aqua;
+} */
+
+
+.firstp{
+    background-color: bisque;
+}
+
+#thirdp
+{
+    background-color: slategray;
+    font-weight: bold;
+}
+
+.second{
+    color: red;
+}
