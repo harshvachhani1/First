@@ -1,0 +1,33 @@
+*{
+    /* background-image:url('background_image.jpg'); */
+    background-color: turquoise;
+}
+h2{
+    color : red;
+    text-align: center;
+    /* float: right; */
+    text-decoration: underline;
+    font-style: italic;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+}
+img{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.firstp{
+    background-color: bisque;
+    width:120px;
+    margin:1em;
+}
+#thirdp
+{
+    background-color: slategray;
+    font-weight: bold;
+}
+
+.second{
+    color: red;
+}
