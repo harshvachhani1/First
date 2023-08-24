@@ -1,0 +1,27 @@
+*{
+    color: white;
+}
+body{
+    background-image: url('background.jpg');
+    background-attachment:fixed;
+    background-size:120%;
+    background-repeat:no-repeat;
+}
+button{
+    background-color: brown;
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkslategray;
+    color: red;
+    font-weight:bold;
+    /* width: 100px; */
+}
+
+.next a{
+    color: red;
+    text-decoration: none   ;
+}
